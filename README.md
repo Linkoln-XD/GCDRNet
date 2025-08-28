@@ -3,7 +3,7 @@
 </p>
 
 # GCDRNet 
-This repository contains the inference code for our paper [**Appearance Enhancement for Camera-captured Document Images in the Wild**](https://1drv.ms/b/s!Ak15mSdV3Wy4iYkkQw4Jx8RvrV8bNg?e=dqFmZe), which has been accepted for IEEE Transactions on Artificial Intelligence.
+This repository contains the inference code for our paper [**Appearance Enhancement for Camera-captured Document Images in the Wild**](https://1drv.ms/f/s!Ak15mSdV3Wy4iYkeUK0TYUAajBPaBQ?e=BzXbk3), which has been accepted for IEEE Transactions on Artificial Intelligence.
 
 
 ## Inference (model weights can be downloaded [here](https://1drv.ms/f/s!Ak15mSdV3Wy4iYkeUK0TYUAajBPaBQ?e=BzXbk3))
